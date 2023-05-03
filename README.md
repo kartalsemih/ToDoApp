@@ -1,3 +1,3 @@
 # ToDoApp Js
-Basit bir todoapp uygulaması , Js ile 
+bir todoapp uygulaması , Js ile 
 
